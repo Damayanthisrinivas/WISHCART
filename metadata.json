@@ -1,0 +1,6 @@
+{
+  "name": "WishCart",
+  "description": "Premium multi-platform shopping application named WishCart, styled after AJIO with beautiful collections, local persistent transactions (Room Database), and integrated Gemini AI shopping chatbot assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
